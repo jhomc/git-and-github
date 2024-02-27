@@ -1,0 +1,1 @@
+Repositorio criado apenas para testar commits assinados. Curso full cycle, modulo Git e Github.
